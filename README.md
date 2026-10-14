@@ -71,7 +71,7 @@ O paciente monitorado é o **CARD-0056**, e essa escolha costura as três fases 
 - **Buffer circular separado por prioridade clínica** — 2400 posições de rotina + 480 críticas
 - Cadência adaptativa: 5 s online, 15 s offline — 12 horas de autonomia sem conexão
 - Sincronização do backlog com críticos primeiro, em lotes
-- SPIFFS implementado sob flag, funcional em chip real
+- SPIFFS implementado sob a flag `USAR_SPIFFS`, **não validado em hardware físico** — o item é opcional e o enunciado reconhece que o simulador não o executa
 
 **Parte 2 — Fog / Cloud**
 

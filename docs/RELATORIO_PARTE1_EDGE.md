@@ -89,7 +89,7 @@ A autonomia só chega a 12 horas por causa de uma segunda decisão: **degradaç�
 
 ### 7. Sobre o SPIFFS
 
-O enunciado reconhece que o SPIFFS é volátil nos simuladores e não computa o item. O código está implementado e compilado condicionalmente (`USAR_SPIFFS` em `config.h`): com a flag em 1, o mesmo firmware grava cada leitura em `/cardioia.csv` num ESP32 físico e **apaga o arquivo** assim que o backlog chega a zero, exatamente como descrito no enunciado. No simulador, a flag fica em 0 e o Monitor Serial cumpre o papel de evidência de resiliência, conforme a alternativa autorizada.
+O enunciado reconhece que o SPIFFS é volátil nos simuladores e não computa o item. O código está implementado e compilado condicionalmente (`USAR_SPIFFS` em `config.h`): com a flag em 1, o mesmo firmware grava cada leitura em `/cardioia.csv` e **apaga o arquivo** assim que o backlog chega a zero, exatamente como descrito no enunciado. Registramos com honestidade que **não tivemos acesso a um ESP32 físico para validar esse caminho** — o código existe e compila, mas não o executamos em hardware, e portanto não reivindicamos o "foi além" que o critério oferece a quem o fizer no chip real. No simulador, a flag fica em 0 e o Monitor Serial cumpre o papel de evidência de resiliência, conforme a alternativa autorizada.
 
 ### 8. Como reproduzir
 
