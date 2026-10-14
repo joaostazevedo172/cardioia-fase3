@@ -1,0 +1,5402 @@
+[
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 0,
+  "bpm": 70,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 320,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 5,
+  "bpm": 81,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 12,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 10,
+  "bpm": 69,
+  "temp": 36.4,
+  "umid": 53,
+  "mov": 257,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 15,
+  "bpm": 70,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 257,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 20,
+  "bpm": 75,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 136,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 25,
+  "bpm": 74,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 174,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 30,
+  "bpm": 72,
+  "temp": 36.8,
+  "umid": 54,
+  "mov": 407,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 35,
+  "bpm": 76,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 98,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 40,
+  "bpm": 72,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 213,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 45,
+  "bpm": 72,
+  "temp": 36.8,
+  "umid": 57,
+  "mov": 212,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 50,
+  "bpm": 78,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 197,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 55,
+  "bpm": 68,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 84,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 60,
+  "bpm": 67,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 211,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 65,
+  "bpm": 73,
+  "temp": 36.6,
+  "umid": 59,
+  "mov": 130,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 70,
+  "bpm": 76,
+  "temp": 36.5,
+  "umid": 55,
+  "mov": 172,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 75,
+  "bpm": 69,
+  "temp": 36.6,
+  "umid": 59,
+  "mov": 287,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 80,
+  "bpm": 71,
+  "temp": 36.5,
+  "umid": 58,
+  "mov": 81,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 85,
+  "bpm": 73,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 143,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 90,
+  "bpm": 75,
+  "temp": 36.5,
+  "umid": 50,
+  "mov": 84,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 95,
+  "bpm": 71,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 104,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 100,
+  "bpm": 72,
+  "temp": 36.6,
+  "umid": 60,
+  "mov": 136,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 105,
+  "bpm": 66,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 113,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 110,
+  "bpm": 69,
+  "temp": 36.7,
+  "umid": 57,
+  "mov": 55,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 115,
+  "bpm": 69,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 195,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 120,
+  "bpm": 68,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 199,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 125,
+  "bpm": 83,
+  "temp": 36.6,
+  "umid": 49,
+  "mov": 180,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 130,
+  "bpm": 71,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 325,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 135,
+  "bpm": 62,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 305,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 140,
+  "bpm": 66,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 193,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 145,
+  "bpm": 72,
+  "temp": 36.6,
+  "umid": 60,
+  "mov": 267,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 150,
+  "bpm": 87,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 140,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 155,
+  "bpm": 73,
+  "temp": 36.7,
+  "umid": 51,
+  "mov": 216,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 160,
+  "bpm": 64,
+  "temp": 36.5,
+  "umid": 60,
+  "mov": 142,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 165,
+  "bpm": 75,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 215,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 170,
+  "bpm": 73,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 115,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 175,
+  "bpm": 80,
+  "temp": 36.5,
+  "umid": 55,
+  "mov": 242,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 180,
+  "bpm": 72,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 178,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 185,
+  "bpm": 68,
+  "temp": 36.6,
+  "umid": 49,
+  "mov": 244,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 190,
+  "bpm": 75,
+  "temp": 36.7,
+  "umid": 58,
+  "mov": 52,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 195,
+  "bpm": 73,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 185,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 200,
+  "bpm": 74,
+  "temp": 36.4,
+  "umid": 55,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 205,
+  "bpm": 78,
+  "temp": 36.8,
+  "umid": 50,
+  "mov": 162,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 210,
+  "bpm": 66,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 192,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 215,
+  "bpm": 69,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 247,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 220,
+  "bpm": 65,
+  "temp": 36.4,
+  "umid": 53,
+  "mov": 64,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 225,
+  "bpm": 69,
+  "temp": 36.8,
+  "umid": 55,
+  "mov": 50,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 230,
+  "bpm": 81,
+  "temp": 36.3,
+  "umid": 57,
+  "mov": 193,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 235,
+  "bpm": 78,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 155,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 240,
+  "bpm": 84,
+  "temp": 36.7,
+  "umid": 60,
+  "mov": 266,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 245,
+  "bpm": 77,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 64,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 250,
+  "bpm": 74,
+  "temp": 36.7,
+  "umid": 51,
+  "mov": 149,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 255,
+  "bpm": 74,
+  "temp": 36.7,
+  "umid": 51,
+  "mov": 106,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 260,
+  "bpm": 69,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 81,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 265,
+  "bpm": 81,
+  "temp": 36.8,
+  "umid": 53,
+  "mov": 206,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 270,
+  "bpm": 74,
+  "temp": 36.4,
+  "umid": 55,
+  "mov": 131,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 275,
+  "bpm": 78,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 236,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 280,
+  "bpm": 81,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 209,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 285,
+  "bpm": 78,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 376,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 290,
+  "bpm": 85,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 183,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 295,
+  "bpm": 73,
+  "temp": 36.5,
+  "umid": 49,
+  "mov": 156,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 300,
+  "bpm": 73,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 291,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 305,
+  "bpm": 74,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 89,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 310,
+  "bpm": 67,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 4,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 315,
+  "bpm": 74,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 287,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 320,
+  "bpm": 81,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 199,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 325,
+  "bpm": 78,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 175,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 330,
+  "bpm": 78,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 302,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 335,
+  "bpm": 75,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 121,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 340,
+  "bpm": 82,
+  "temp": 36.5,
+  "umid": 52,
+  "mov": 287,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 345,
+  "bpm": 72,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 98,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 350,
+  "bpm": 73,
+  "temp": 36.8,
+  "umid": 59,
+  "mov": 229,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 355,
+  "bpm": 72,
+  "temp": 36.8,
+  "umid": 55,
+  "mov": 154,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 360,
+  "bpm": 87,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 174,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 365,
+  "bpm": 76,
+  "temp": 36.4,
+  "umid": 52,
+  "mov": 175,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 370,
+  "bpm": 74,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 299,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 375,
+  "bpm": 70,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 303,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 380,
+  "bpm": 76,
+  "temp": 36.5,
+  "umid": 61,
+  "mov": 222,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 385,
+  "bpm": 75,
+  "temp": 36.6,
+  "umid": 59,
+  "mov": 272,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 390,
+  "bpm": 69,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 114,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 395,
+  "bpm": 83,
+  "temp": 36.4,
+  "umid": 56,
+  "mov": 209,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 400,
+  "bpm": 73,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 153,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 405,
+  "bpm": 68,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 110,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 410,
+  "bpm": 68,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 126,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 415,
+  "bpm": 69,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 48,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 420,
+  "bpm": 64,
+  "temp": 36.7,
+  "umid": 60,
+  "mov": 255,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 425,
+  "bpm": 69,
+  "temp": 36.7,
+  "umid": 58,
+  "mov": 74,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 430,
+  "bpm": 75,
+  "temp": 36.6,
+  "umid": 49,
+  "mov": 309,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 435,
+  "bpm": 71,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 161,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 440,
+  "bpm": 75,
+  "temp": 36.6,
+  "umid": 59,
+  "mov": 278,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 445,
+  "bpm": 73,
+  "temp": 36.4,
+  "umid": 52,
+  "mov": 73,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 450,
+  "bpm": 75,
+  "temp": 36.7,
+  "umid": 61,
+  "mov": 132,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 455,
+  "bpm": 75,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 198,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 460,
+  "bpm": 74,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 271,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 465,
+  "bpm": 75,
+  "temp": 36.5,
+  "umid": 55,
+  "mov": 241,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 470,
+  "bpm": 67,
+  "temp": 36.4,
+  "umid": 49,
+  "mov": 274,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 475,
+  "bpm": 76,
+  "temp": 36.3,
+  "umid": 56,
+  "mov": 85,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 480,
+  "bpm": 137,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 158,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 485,
+  "bpm": 140,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 145,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 490,
+  "bpm": 135,
+  "temp": 36.7,
+  "umid": 50,
+  "mov": 143,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 495,
+  "bpm": 129,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 190,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 500,
+  "bpm": 125,
+  "temp": 36.8,
+  "umid": 56,
+  "mov": 223,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 505,
+  "bpm": 125,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 78,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 510,
+  "bpm": 135,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 157,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 515,
+  "bpm": 131,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 43,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 520,
+  "bpm": 135,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 10,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 525,
+  "bpm": 129,
+  "temp": 36.4,
+  "umid": 56,
+  "mov": 142,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 530,
+  "bpm": 121,
+  "temp": 36.7,
+  "umid": 58,
+  "mov": 214,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 535,
+  "bpm": 124,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 56,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 540,
+  "bpm": 121,
+  "temp": 36.5,
+  "umid": 52,
+  "mov": 237,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 545,
+  "bpm": 135,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 211,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 550,
+  "bpm": 139,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 234,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 555,
+  "bpm": 134,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 294,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 560,
+  "bpm": 130,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 199,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 565,
+  "bpm": 134,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 189,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 570,
+  "bpm": 139,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 294,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 575,
+  "bpm": 137,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 249,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 580,
+  "bpm": 135,
+  "temp": 36.7,
+  "umid": 60,
+  "mov": 252,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 585,
+  "bpm": 134,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 84,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 590,
+  "bpm": 138,
+  "temp": 36.8,
+  "umid": 56,
+  "mov": 117,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 595,
+  "bpm": 117,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 225,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 600,
+  "bpm": 69,
+  "temp": 36.7,
+  "umid": 51,
+  "mov": 204,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 605,
+  "bpm": 71,
+  "temp": 36.8,
+  "umid": 58,
+  "mov": 354,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 610,
+  "bpm": 77,
+  "temp": 36.6,
+  "umid": 49,
+  "mov": 213,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 615,
+  "bpm": 75,
+  "temp": 36.8,
+  "umid": 56,
+  "mov": 298,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 620,
+  "bpm": 72,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 202,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 625,
+  "bpm": 67,
+  "temp": 36.8,
+  "umid": 53,
+  "mov": 79,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 630,
+  "bpm": 131,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 180,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 635,
+  "bpm": 139,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 117,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 640,
+  "bpm": 136,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 645,
+  "bpm": 149,
+  "temp": 36.5,
+  "umid": 52,
+  "mov": 182,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 650,
+  "bpm": 148,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 139,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 655,
+  "bpm": 133,
+  "temp": 36.4,
+  "umid": 55,
+  "mov": 213,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 660,
+  "bpm": 135,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 154,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 665,
+  "bpm": 132,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 218,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 670,
+  "bpm": 140,
+  "temp": 36.7,
+  "umid": 65,
+  "mov": 114,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 675,
+  "bpm": 149,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 238,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 680,
+  "bpm": 138,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 214,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 685,
+  "bpm": 125,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 101,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 690,
+  "bpm": 139,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 275,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 695,
+  "bpm": 122,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 210,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 700,
+  "bpm": 110,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 267,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 705,
+  "bpm": 140,
+  "temp": 36.8,
+  "umid": 54,
+  "mov": 228,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 710,
+  "bpm": 131,
+  "temp": 36.5,
+  "umid": 52,
+  "mov": 253,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 715,
+  "bpm": 134,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 317,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 720,
+  "bpm": 135,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 226,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 725,
+  "bpm": 140,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 227,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 730,
+  "bpm": 127,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 249,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 735,
+  "bpm": 120,
+  "temp": 36.9,
+  "umid": 56,
+  "mov": 40,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 740,
+  "bpm": 131,
+  "temp": 36.6,
+  "umid": 49,
+  "mov": 277,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 745,
+  "bpm": 129,
+  "temp": 36.7,
+  "umid": 51,
+  "mov": 92,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 750,
+  "bpm": 138,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 283,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 755,
+  "bpm": 144,
+  "temp": 36.8,
+  "umid": 55,
+  "mov": 111,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 760,
+  "bpm": 139,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 2,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 765,
+  "bpm": 133,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 243,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 770,
+  "bpm": 125,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 239,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 775,
+  "bpm": 130,
+  "temp": 36.4,
+  "umid": 55,
+  "mov": 175,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 780,
+  "bpm": 142,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 107,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 785,
+  "bpm": 134,
+  "temp": 36.8,
+  "umid": 57,
+  "mov": 191,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 790,
+  "bpm": 129,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 5,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 795,
+  "bpm": 132,
+  "temp": 36.8,
+  "umid": 50,
+  "mov": 75,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 800,
+  "bpm": 70,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 143,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 805,
+  "bpm": 75,
+  "temp": 36.7,
+  "umid": 58,
+  "mov": 83,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 810,
+  "bpm": 76,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 201,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 815,
+  "bpm": 60,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 187,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 820,
+  "bpm": 77,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 277,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 825,
+  "bpm": 74,
+  "temp": 36.8,
+  "umid": 59,
+  "mov": 87,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 830,
+  "bpm": 72,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 69,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 835,
+  "bpm": 77,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 183,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 840,
+  "bpm": 86,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 396,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 845,
+  "bpm": 70,
+  "temp": 36.7,
+  "umid": 60,
+  "mov": 136,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 850,
+  "bpm": 75,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 235,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 855,
+  "bpm": 66,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 139,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 860,
+  "bpm": 74,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 160,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 865,
+  "bpm": 72,
+  "temp": 36.4,
+  "umid": 50,
+  "mov": 128,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 870,
+  "bpm": 74,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 160,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 875,
+  "bpm": 68,
+  "temp": 36.8,
+  "umid": 53,
+  "mov": 43,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 880,
+  "bpm": 73,
+  "temp": 36.4,
+  "umid": 52,
+  "mov": 297,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 885,
+  "bpm": 78,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 9,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 890,
+  "bpm": 76,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 200,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 895,
+  "bpm": 77,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 100,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 900,
+  "bpm": 72,
+  "temp": 36.4,
+  "umid": 53,
+  "mov": 242,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 905,
+  "bpm": 85,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 88,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 910,
+  "bpm": 77,
+  "temp": 36.7,
+  "umid": 48,
+  "mov": 72,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 915,
+  "bpm": 77,
+  "temp": 36.7,
+  "umid": 57,
+  "mov": 375,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 920,
+  "bpm": 74,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 60,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 925,
+  "bpm": 71,
+  "temp": 36.7,
+  "umid": 60,
+  "mov": 38,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 930,
+  "bpm": 69,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 235,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 935,
+  "bpm": 73,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 300,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 940,
+  "bpm": 77,
+  "temp": 36.5,
+  "umid": 60,
+  "mov": 225,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 945,
+  "bpm": 71,
+  "temp": 36.7,
+  "umid": 61,
+  "mov": 63,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 950,
+  "bpm": 72,
+  "temp": 36.7,
+  "umid": 57,
+  "mov": 49,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 955,
+  "bpm": 78,
+  "temp": 36.7,
+  "umid": 47,
+  "mov": 132,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 960,
+  "bpm": 78,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 214,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 965,
+  "bpm": 77,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 169,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 970,
+  "bpm": 70,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 57,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 975,
+  "bpm": 75,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 140,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 980,
+  "bpm": 79,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 249,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 985,
+  "bpm": 76,
+  "temp": 36.8,
+  "umid": 54,
+  "mov": 187,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 990,
+  "bpm": 76,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 176,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 995,
+  "bpm": 74,
+  "temp": 36.8,
+  "umid": 53,
+  "mov": 143,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1000,
+  "bpm": 71,
+  "temp": 36.6,
+  "umid": 50,
+  "mov": 176,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1005,
+  "bpm": 70,
+  "temp": 36.3,
+  "umid": 55,
+  "mov": 174,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1010,
+  "bpm": 72,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 90,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1015,
+  "bpm": 67,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 282,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1020,
+  "bpm": 82,
+  "temp": 36.4,
+  "umid": 53,
+  "mov": 90,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1025,
+  "bpm": 80,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 233,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1030,
+  "bpm": 74,
+  "temp": 36.8,
+  "umid": 51,
+  "mov": 330,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1035,
+  "bpm": 72,
+  "temp": 36.4,
+  "umid": 55,
+  "mov": 199,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1040,
+  "bpm": 67,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 169,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1045,
+  "bpm": 82,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 208,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1050,
+  "bpm": 78,
+  "temp": 37.1,
+  "umid": 55,
+  "mov": 315,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1055,
+  "bpm": 66,
+  "temp": 37.2,
+  "umid": 49,
+  "mov": 150,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1060,
+  "bpm": 80,
+  "temp": 37.3,
+  "umid": 53,
+  "mov": 226,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1065,
+  "bpm": 78,
+  "temp": 37.5,
+  "umid": 53,
+  "mov": 138,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1070,
+  "bpm": 70,
+  "temp": 37.6,
+  "umid": 55,
+  "mov": 112,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1075,
+  "bpm": 71,
+  "temp": 37.7,
+  "umid": 53,
+  "mov": 182,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1080,
+  "bpm": 77,
+  "temp": 37.6,
+  "umid": 52,
+  "mov": 179,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1085,
+  "bpm": 87,
+  "temp": 37.7,
+  "umid": 57,
+  "mov": 161,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1090,
+  "bpm": 71,
+  "temp": 37.9,
+  "umid": 51,
+  "mov": 3,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1095,
+  "bpm": 76,
+  "temp": 38.0,
+  "umid": 57,
+  "mov": 117,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1100,
+  "bpm": 71,
+  "temp": 37.9,
+  "umid": 57,
+  "mov": 299,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1105,
+  "bpm": 74,
+  "temp": 38.1,
+  "umid": 53,
+  "mov": 81,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1110,
+  "bpm": 75,
+  "temp": 38.2,
+  "umid": 47,
+  "mov": 67,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1115,
+  "bpm": 69,
+  "temp": 38.0,
+  "umid": 50,
+  "mov": 253,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1120,
+  "bpm": 78,
+  "temp": 38.4,
+  "umid": 53,
+  "mov": 133,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1125,
+  "bpm": 68,
+  "temp": 38.5,
+  "umid": 55,
+  "mov": 314,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1130,
+  "bpm": 74,
+  "temp": 38.5,
+  "umid": 56,
+  "mov": 388,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1135,
+  "bpm": 71,
+  "temp": 38.5,
+  "umid": 54,
+  "mov": 413,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1140,
+  "bpm": 74,
+  "temp": 38.6,
+  "umid": 59,
+  "mov": 78,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1145,
+  "bpm": 71,
+  "temp": 38.6,
+  "umid": 56,
+  "mov": 209,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1150,
+  "bpm": 74,
+  "temp": 38.5,
+  "umid": 54,
+  "mov": 100,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1155,
+  "bpm": 75,
+  "temp": 38.3,
+  "umid": 56,
+  "mov": 199,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1160,
+  "bpm": 75,
+  "temp": 38.1,
+  "umid": 55,
+  "mov": 186,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1165,
+  "bpm": 68,
+  "temp": 38.2,
+  "umid": 57,
+  "mov": 278,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1170,
+  "bpm": 79,
+  "temp": 38.1,
+  "umid": 54,
+  "mov": 108,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1175,
+  "bpm": 64,
+  "temp": 38.0,
+  "umid": 55,
+  "mov": 147,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1180,
+  "bpm": 78,
+  "temp": 38.1,
+  "umid": 51,
+  "mov": 208,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1185,
+  "bpm": 72,
+  "temp": 38.1,
+  "umid": 53,
+  "mov": 345,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1190,
+  "bpm": 74,
+  "temp": 37.9,
+  "umid": 53,
+  "mov": 220,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1195,
+  "bpm": 72,
+  "temp": 37.6,
+  "umid": 60,
+  "mov": 305,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1200,
+  "bpm": 73,
+  "temp": 37.7,
+  "umid": 55,
+  "mov": 319,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1205,
+  "bpm": 76,
+  "temp": 37.5,
+  "umid": 54,
+  "mov": 5,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1210,
+  "bpm": 80,
+  "temp": 37.6,
+  "umid": 55,
+  "mov": 61,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1215,
+  "bpm": 75,
+  "temp": 37.6,
+  "umid": 54,
+  "mov": 270,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1220,
+  "bpm": 86,
+  "temp": 37.2,
+  "umid": 61,
+  "mov": 8,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1225,
+  "bpm": 74,
+  "temp": 37.3,
+  "umid": 56,
+  "mov": 74,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1230,
+  "bpm": 64,
+  "temp": 36.4,
+  "umid": 55,
+  "mov": 239,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1235,
+  "bpm": 75,
+  "temp": 36.5,
+  "umid": 62,
+  "mov": 182,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1240,
+  "bpm": 77,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 239,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1245,
+  "bpm": 80,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 195,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1250,
+  "bpm": 67,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 53,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1255,
+  "bpm": 65,
+  "temp": 36.6,
+  "umid": 47,
+  "mov": 205,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1260,
+  "bpm": 79,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 134,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1265,
+  "bpm": 67,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 101,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1270,
+  "bpm": 68,
+  "temp": 36.8,
+  "umid": 51,
+  "mov": 227,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1275,
+  "bpm": 67,
+  "temp": 36.7,
+  "umid": 49,
+  "mov": 428,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1280,
+  "bpm": 75,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 194,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1285,
+  "bpm": 68,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 280,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1290,
+  "bpm": 74,
+  "temp": 36.5,
+  "umid": 55,
+  "mov": 140,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1295,
+  "bpm": 84,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 175,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1300,
+  "bpm": 67,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 312,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1305,
+  "bpm": 66,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 96,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1310,
+  "bpm": 77,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 235,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1315,
+  "bpm": 75,
+  "temp": 36.8,
+  "umid": 52,
+  "mov": 145,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1320,
+  "bpm": 82,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 129,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1325,
+  "bpm": 74,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 317,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1330,
+  "bpm": 72,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 133,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1335,
+  "bpm": 71,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 196,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1340,
+  "bpm": 65,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 82,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1345,
+  "bpm": 72,
+  "temp": 36.5,
+  "umid": 58,
+  "mov": 147,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1350,
+  "bpm": 77,
+  "temp": 36.3,
+  "umid": 51,
+  "mov": 217,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1355,
+  "bpm": 77,
+  "temp": 36.8,
+  "umid": 60,
+  "mov": 156,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1360,
+  "bpm": 75,
+  "temp": 36.9,
+  "umid": 56,
+  "mov": 233,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1365,
+  "bpm": 71,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 53,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1370,
+  "bpm": 68,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 353,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1375,
+  "bpm": 72,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 267,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1380,
+  "bpm": 67,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 357,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1385,
+  "bpm": 80,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 83,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1390,
+  "bpm": 65,
+  "temp": 36.7,
+  "umid": 50,
+  "mov": 186,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1395,
+  "bpm": 84,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 265,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1400,
+  "bpm": 76,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 104,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1405,
+  "bpm": 62,
+  "temp": 36.8,
+  "umid": 62,
+  "mov": 207,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1410,
+  "bpm": 77,
+  "temp": 36.9,
+  "umid": 56,
+  "mov": 244,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1415,
+  "bpm": 67,
+  "temp": 36.3,
+  "umid": 57,
+  "mov": 61,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1420,
+  "bpm": 73,
+  "temp": 36.7,
+  "umid": 58,
+  "mov": 165,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1425,
+  "bpm": 71,
+  "temp": 36.6,
+  "umid": 60,
+  "mov": 172,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1430,
+  "bpm": 68,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 142,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1435,
+  "bpm": 78,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 201,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1440,
+  "bpm": 70,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 32,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1445,
+  "bpm": 77,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 31,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1450,
+  "bpm": 75,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 130,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1455,
+  "bpm": 76,
+  "temp": 36.5,
+  "umid": 50,
+  "mov": 215,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1460,
+  "bpm": 77,
+  "temp": 36.8,
+  "umid": 57,
+  "mov": 82,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1465,
+  "bpm": 73,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 209,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1470,
+  "bpm": 79,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 197,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1475,
+  "bpm": 71,
+  "temp": 36.9,
+  "umid": 56,
+  "mov": 135,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1480,
+  "bpm": 73,
+  "temp": 36.4,
+  "umid": 49,
+  "mov": 203,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1485,
+  "bpm": 75,
+  "temp": 36.5,
+  "umid": 55,
+  "mov": 193,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1490,
+  "bpm": 78,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 202,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1495,
+  "bpm": 66,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 251,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1500,
+  "bpm": 58,
+  "temp": 36.3,
+  "umid": 57,
+  "mov": 3271,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1505,
+  "bpm": 54,
+  "temp": 36.7,
+  "umid": 57,
+  "mov": 2788,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1510,
+  "bpm": 63,
+  "temp": 36.8,
+  "umid": 53,
+  "mov": 2829,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1515,
+  "bpm": 53,
+  "temp": 36.4,
+  "umid": 53,
+  "mov": 25,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1520,
+  "bpm": 60,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1525,
+  "bpm": 55,
+  "temp": 36.7,
+  "umid": 59,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1530,
+  "bpm": 60,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 28,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1535,
+  "bpm": 60,
+  "temp": 36.7,
+  "umid": 60,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1540,
+  "bpm": 57,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1545,
+  "bpm": 61,
+  "temp": 36.5,
+  "umid": 58,
+  "mov": 10,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1550,
+  "bpm": 63,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 2,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1555,
+  "bpm": 50,
+  "temp": 36.6,
+  "umid": 59,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1560,
+  "bpm": 53,
+  "temp": 36.5,
+  "umid": 50,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1565,
+  "bpm": 62,
+  "temp": 36.4,
+  "umid": 57,
+  "mov": 26,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1570,
+  "bpm": 61,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 11,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1575,
+  "bpm": 56,
+  "temp": 36.8,
+  "umid": 51,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1580,
+  "bpm": 61,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 25,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1585,
+  "bpm": 58,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 0,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1590,
+  "bpm": 59,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 21,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1595,
+  "bpm": 57,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 15,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1600,
+  "bpm": 62,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 3,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1605,
+  "bpm": 56,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 6,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1610,
+  "bpm": 56,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 19,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1615,
+  "bpm": 57,
+  "temp": 36.5,
+  "umid": 55,
+  "mov": 4,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1620,
+  "bpm": 57,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1625,
+  "bpm": 57,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 27,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1630,
+  "bpm": 59,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 9,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1635,
+  "bpm": 57,
+  "temp": 36.5,
+  "umid": 52,
+  "mov": 23,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1640,
+  "bpm": 55,
+  "temp": 36.8,
+  "umid": 52,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1645,
+  "bpm": 58,
+  "temp": 36.5,
+  "umid": 58,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1650,
+  "bpm": 60,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 29,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1655,
+  "bpm": 58,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 27,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1660,
+  "bpm": 55,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 25,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1665,
+  "bpm": 62,
+  "temp": 36.3,
+  "umid": 57,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1670,
+  "bpm": 52,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 25,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1675,
+  "bpm": 53,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 5,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1680,
+  "bpm": 65,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 15,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1685,
+  "bpm": 57,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 6,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1690,
+  "bpm": 56,
+  "temp": 36.3,
+  "umid": 49,
+  "mov": 21,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1695,
+  "bpm": 55,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1700,
+  "bpm": 60,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 28,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1705,
+  "bpm": 62,
+  "temp": 36.4,
+  "umid": 50,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1710,
+  "bpm": 56,
+  "temp": 36.8,
+  "umid": 60,
+  "mov": 9,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1715,
+  "bpm": 58,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 7,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1720,
+  "bpm": 58,
+  "temp": 36.8,
+  "umid": 51,
+  "mov": 9,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1725,
+  "bpm": 58,
+  "temp": 36.5,
+  "umid": 58,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1730,
+  "bpm": 55,
+  "temp": 36.5,
+  "umid": 55,
+  "mov": 12,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1735,
+  "bpm": 54,
+  "temp": 36.5,
+  "umid": 49,
+  "mov": 33,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1740,
+  "bpm": 55,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 27,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1745,
+  "bpm": 58,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 26,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1750,
+  "bpm": 61,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 25,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1755,
+  "bpm": 53,
+  "temp": 36.8,
+  "umid": 49,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1760,
+  "bpm": 63,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 2,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1765,
+  "bpm": 55,
+  "temp": 36.5,
+  "umid": 62,
+  "mov": 1,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1770,
+  "bpm": 63,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1775,
+  "bpm": 57,
+  "temp": 36.5,
+  "umid": 58,
+  "mov": 10,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1780,
+  "bpm": 57,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 30,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1785,
+  "bpm": 59,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 24,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1790,
+  "bpm": 60,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 5,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1795,
+  "bpm": 54,
+  "temp": 36.6,
+  "umid": 50,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1800,
+  "bpm": 56,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 28,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1805,
+  "bpm": 58,
+  "temp": 36.7,
+  "umid": 58,
+  "mov": 23,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1810,
+  "bpm": 55,
+  "temp": 36.7,
+  "umid": 60,
+  "mov": 24,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1815,
+  "bpm": 59,
+  "temp": 36.6,
+  "umid": 60,
+  "mov": 27,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1820,
+  "bpm": 58,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1825,
+  "bpm": 60,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1830,
+  "bpm": 58,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 12,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1835,
+  "bpm": 54,
+  "temp": 36.7,
+  "umid": 57,
+  "mov": 10,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1840,
+  "bpm": 58,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 21,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1845,
+  "bpm": 61,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 9,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1850,
+  "bpm": 57,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 9,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1855,
+  "bpm": 62,
+  "temp": 36.7,
+  "umid": 51,
+  "mov": 2,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1860,
+  "bpm": 62,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 5,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1865,
+  "bpm": 58,
+  "temp": 36.7,
+  "umid": 60,
+  "mov": 29,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1870,
+  "bpm": 59,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 12,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1875,
+  "bpm": 59,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 3,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1880,
+  "bpm": 56,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1885,
+  "bpm": 57,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 14,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1890,
+  "bpm": 57,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 26,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1895,
+  "bpm": 60,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 35,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1900,
+  "bpm": 59,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 31,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1905,
+  "bpm": 60,
+  "temp": 36.6,
+  "umid": 48,
+  "mov": 10,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1910,
+  "bpm": 62,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 29,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1915,
+  "bpm": 59,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1920,
+  "bpm": 55,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 9,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1925,
+  "bpm": 52,
+  "temp": 36.5,
+  "umid": 60,
+  "mov": 19,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1930,
+  "bpm": 60,
+  "temp": 36.7,
+  "umid": 50,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1935,
+  "bpm": 62,
+  "temp": 36.5,
+  "umid": 58,
+  "mov": 21,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1940,
+  "bpm": 59,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 15,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1945,
+  "bpm": 52,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 31,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1950,
+  "bpm": 61,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 40,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1955,
+  "bpm": 56,
+  "temp": 36.4,
+  "umid": 50,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1960,
+  "bpm": 60,
+  "temp": 36.5,
+  "umid": 55,
+  "mov": 29,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1965,
+  "bpm": 60,
+  "temp": 36.4,
+  "umid": 53,
+  "mov": 25,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1970,
+  "bpm": 59,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 19,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1975,
+  "bpm": 62,
+  "temp": 36.6,
+  "umid": 59,
+  "mov": 11,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1980,
+  "bpm": 60,
+  "temp": 36.5,
+  "umid": 54,
+  "mov": 35,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1985,
+  "bpm": 66,
+  "temp": 36.8,
+  "umid": 53,
+  "mov": 11,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1990,
+  "bpm": 56,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 19,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 1995,
+  "bpm": 58,
+  "temp": 36.7,
+  "umid": 50,
+  "mov": 19,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2000,
+  "bpm": 61,
+  "temp": 36.6,
+  "umid": 48,
+  "mov": 34,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2005,
+  "bpm": 59,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 5,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2010,
+  "bpm": 60,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 4,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2015,
+  "bpm": 53,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 21,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2020,
+  "bpm": 57,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 10,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2025,
+  "bpm": 60,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2030,
+  "bpm": 55,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 29,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2035,
+  "bpm": 59,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 2,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2040,
+  "bpm": 61,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2045,
+  "bpm": 58,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 14,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2050,
+  "bpm": 57,
+  "temp": 36.9,
+  "umid": 54,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2055,
+  "bpm": 60,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2060,
+  "bpm": 61,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 1,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2065,
+  "bpm": 60,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 11,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2070,
+  "bpm": 61,
+  "temp": 36.8,
+  "umid": 58,
+  "mov": 21,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2075,
+  "bpm": 61,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 5,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2080,
+  "bpm": 54,
+  "temp": 36.5,
+  "umid": 48,
+  "mov": 4,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2085,
+  "bpm": 57,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 28,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2090,
+  "bpm": 54,
+  "temp": 36.5,
+  "umid": 49,
+  "mov": 19,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2095,
+  "bpm": 59,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2100,
+  "bpm": 52,
+  "temp": 36.4,
+  "umid": 60,
+  "mov": 30,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2105,
+  "bpm": 52,
+  "temp": 36.3,
+  "umid": 54,
+  "mov": 10,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2110,
+  "bpm": 55,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 21,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2115,
+  "bpm": 62,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2120,
+  "bpm": 64,
+  "temp": 36.3,
+  "umid": 50,
+  "mov": 3,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2125,
+  "bpm": 61,
+  "temp": 36.4,
+  "umid": 53,
+  "mov": 7,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2130,
+  "bpm": 62,
+  "temp": 36.4,
+  "umid": 55,
+  "mov": 25,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2135,
+  "bpm": 56,
+  "temp": 36.8,
+  "umid": 53,
+  "mov": 27,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2140,
+  "bpm": 60,
+  "temp": 36.6,
+  "umid": 60,
+  "mov": 26,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2145,
+  "bpm": 56,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2150,
+  "bpm": 60,
+  "temp": 37.0,
+  "umid": 56,
+  "mov": 2,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2155,
+  "bpm": 62,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 23,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2160,
+  "bpm": 55,
+  "temp": 36.8,
+  "umid": 59,
+  "mov": 6,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2165,
+  "bpm": 58,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 27,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2170,
+  "bpm": 55,
+  "temp": 36.7,
+  "umid": 61,
+  "mov": 25,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2175,
+  "bpm": 61,
+  "temp": 36.4,
+  "umid": 51,
+  "mov": 21,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2180,
+  "bpm": 59,
+  "temp": 36.7,
+  "umid": 50,
+  "mov": 1,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2185,
+  "bpm": 56,
+  "temp": 36.8,
+  "umid": 58,
+  "mov": 0,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2190,
+  "bpm": 58,
+  "temp": 36.3,
+  "umid": 60,
+  "mov": 19,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2195,
+  "bpm": 57,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2200,
+  "bpm": 61,
+  "temp": 36.7,
+  "umid": 49,
+  "mov": 6,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2205,
+  "bpm": 58,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2210,
+  "bpm": 56,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 24,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2215,
+  "bpm": 62,
+  "temp": 36.4,
+  "umid": 55,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2220,
+  "bpm": 59,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 33,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2225,
+  "bpm": 61,
+  "temp": 36.8,
+  "umid": 57,
+  "mov": 33,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2230,
+  "bpm": 57,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 40,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2235,
+  "bpm": 56,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2240,
+  "bpm": 54,
+  "temp": 36.7,
+  "umid": 57,
+  "mov": 8,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2245,
+  "bpm": 61,
+  "temp": 36.4,
+  "umid": 56,
+  "mov": 40,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2250,
+  "bpm": 62,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2255,
+  "bpm": 60,
+  "temp": 36.8,
+  "umid": 57,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2260,
+  "bpm": 57,
+  "temp": 36.8,
+  "umid": 57,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2265,
+  "bpm": 57,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 5,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2270,
+  "bpm": 61,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 34,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2275,
+  "bpm": 60,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 30,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2280,
+  "bpm": 62,
+  "temp": 36.8,
+  "umid": 55,
+  "mov": 11,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2285,
+  "bpm": 56,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 33,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2290,
+  "bpm": 58,
+  "temp": 36.9,
+  "umid": 52,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2295,
+  "bpm": 65,
+  "temp": 36.3,
+  "umid": 49,
+  "mov": 2,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2300,
+  "bpm": 46,
+  "temp": 36.5,
+  "umid": 57,
+  "mov": 38,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2305,
+  "bpm": 46,
+  "temp": 36.6,
+  "umid": 47,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2310,
+  "bpm": 43,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 8,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2315,
+  "bpm": 43,
+  "temp": 36.8,
+  "umid": 55,
+  "mov": 5,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2320,
+  "bpm": 47,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2325,
+  "bpm": 45,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2330,
+  "bpm": 41,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 23,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2335,
+  "bpm": 44,
+  "temp": 36.4,
+  "umid": 54,
+  "mov": 7,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2340,
+  "bpm": 43,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2345,
+  "bpm": 47,
+  "temp": 36.6,
+  "umid": 59,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2350,
+  "bpm": 41,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2355,
+  "bpm": 46,
+  "temp": 36.7,
+  "umid": 51,
+  "mov": 26,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2360,
+  "bpm": 44,
+  "temp": 36.5,
+  "umid": 52,
+  "mov": 4,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2365,
+  "bpm": 43,
+  "temp": 36.5,
+  "umid": 51,
+  "mov": 23,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2370,
+  "bpm": 42,
+  "temp": 36.4,
+  "umid": 43,
+  "mov": 28,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2375,
+  "bpm": 43,
+  "temp": 36.5,
+  "umid": 50,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2380,
+  "bpm": 46,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 15,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2385,
+  "bpm": 48,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2390,
+  "bpm": 47,
+  "temp": 36.5,
+  "umid": 50,
+  "mov": 20,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2395,
+  "bpm": 45,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 14,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2400,
+  "bpm": 46,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2405,
+  "bpm": 43,
+  "temp": 36.7,
+  "umid": 53,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2410,
+  "bpm": 48,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 24,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2415,
+  "bpm": 42,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 6,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2420,
+  "bpm": 44,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 14,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2425,
+  "bpm": 44,
+  "temp": 36.9,
+  "umid": 55,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2430,
+  "bpm": 44,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 27,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2435,
+  "bpm": 44,
+  "temp": 36.7,
+  "umid": 56,
+  "mov": 33,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2440,
+  "bpm": 47,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2445,
+  "bpm": 43,
+  "temp": 36.8,
+  "umid": 51,
+  "mov": 14,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2450,
+  "bpm": 41,
+  "temp": 36.4,
+  "umid": 60,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2455,
+  "bpm": 44,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2460,
+  "bpm": 43,
+  "temp": 36.7,
+  "umid": 51,
+  "mov": 9,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2465,
+  "bpm": 49,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 34,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2470,
+  "bpm": 47,
+  "temp": 36.6,
+  "umid": 50,
+  "mov": 33,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2475,
+  "bpm": 43,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 0,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2480,
+  "bpm": 43,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 11,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2485,
+  "bpm": 46,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 27,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2490,
+  "bpm": 41,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2495,
+  "bpm": 48,
+  "temp": 36.7,
+  "umid": 58,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2500,
+  "bpm": 39,
+  "temp": 36.5,
+  "umid": 47,
+  "mov": 0,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2505,
+  "bpm": 44,
+  "temp": 36.5,
+  "umid": 52,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2510,
+  "bpm": 42,
+  "temp": 36.6,
+  "umid": 55,
+  "mov": 28,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2515,
+  "bpm": 46,
+  "temp": 36.8,
+  "umid": 56,
+  "mov": 37,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2520,
+  "bpm": 43,
+  "temp": 36.7,
+  "umid": 58,
+  "mov": 14,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2525,
+  "bpm": 46,
+  "temp": 36.8,
+  "umid": 54,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2530,
+  "bpm": 41,
+  "temp": 36.5,
+  "umid": 59,
+  "mov": 32,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2535,
+  "bpm": 45,
+  "temp": 36.6,
+  "umid": 57,
+  "mov": 30,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2540,
+  "bpm": 44,
+  "temp": 36.5,
+  "umid": 56,
+  "mov": 1,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2545,
+  "bpm": 45,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 24,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2550,
+  "bpm": 45,
+  "temp": 36.6,
+  "umid": 53,
+  "mov": 7,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2555,
+  "bpm": 46,
+  "temp": 36.7,
+  "umid": 50,
+  "mov": 0,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2560,
+  "bpm": 43,
+  "temp": 36.5,
+  "umid": 55,
+  "mov": 35,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2565,
+  "bpm": 44,
+  "temp": 36.5,
+  "umid": 58,
+  "mov": 29,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2570,
+  "bpm": 44,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 27,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2575,
+  "bpm": 47,
+  "temp": 36.4,
+  "umid": 56,
+  "mov": 31,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2580,
+  "bpm": 51,
+  "temp": 36.4,
+  "umid": 56,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2585,
+  "bpm": 45,
+  "temp": 36.6,
+  "umid": 52,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2590,
+  "bpm": 45,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 7,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2595,
+  "bpm": 40,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 30,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2600,
+  "bpm": 42,
+  "temp": 36.4,
+  "umid": 56,
+  "mov": 13,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2605,
+  "bpm": 40,
+  "temp": 36.3,
+  "umid": 57,
+  "mov": 26,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2610,
+  "bpm": 44,
+  "temp": 36.5,
+  "umid": 48,
+  "mov": 16,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2615,
+  "bpm": 44,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 8,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2620,
+  "bpm": 42,
+  "temp": 36.8,
+  "umid": 55,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2625,
+  "bpm": 45,
+  "temp": 36.7,
+  "umid": 54,
+  "mov": 44,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2630,
+  "bpm": 40,
+  "temp": 36.6,
+  "umid": 59,
+  "mov": 6,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2635,
+  "bpm": 45,
+  "temp": 36.4,
+  "umid": 52,
+  "mov": 24,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2640,
+  "bpm": 48,
+  "temp": 36.6,
+  "umid": 54,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2645,
+  "bpm": 45,
+  "temp": 36.6,
+  "umid": 51,
+  "mov": 18,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2650,
+  "bpm": 43,
+  "temp": 36.7,
+  "umid": 52,
+  "mov": 22,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2655,
+  "bpm": 40,
+  "temp": 36.6,
+  "umid": 59,
+  "mov": 26,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2660,
+  "bpm": 40,
+  "temp": 36.7,
+  "umid": 48,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2665,
+  "bpm": 46,
+  "temp": 36.5,
+  "umid": 53,
+  "mov": 6,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2670,
+  "bpm": 47,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 29,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2675,
+  "bpm": 42,
+  "temp": 36.6,
+  "umid": 56,
+  "mov": 30,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2680,
+  "bpm": 42,
+  "temp": 36.4,
+  "umid": 55,
+  "mov": 26,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2685,
+  "bpm": 46,
+  "temp": 36.7,
+  "umid": 55,
+  "mov": 17,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2690,
+  "bpm": 42,
+  "temp": 36.6,
+  "umid": 58,
+  "mov": 26,
+  "origem": "live"
+ },
+ {
+  "disp": "PURKINJE-WEAR-01",
+  "pac": "CARD-0056",
+  "t": 2695,
+  "bpm": 45,
+  "temp": 36.4,
+  "umid": 52,
+  "mov": 4,
+  "origem": "live"
+ }
+]

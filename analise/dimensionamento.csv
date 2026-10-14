@@ -1,0 +1,8 @@
+amostras,kb,pct_sram,autonomia_offline_h,autonomia_cadencia_online_h,cabe_no_orcamento,atinge_alvo
+720,8.4,1.62,3.0,1.0,True,False
+1440,16.9,3.25,6.0,2.0,True,False
+2160,25.3,4.87,9.0,3.0,True,False
+2880,33.8,6.49,12.0,4.0,True,True
+3600,42.2,8.11,15.0,5.0,True,True
+4320,50.6,9.74,18.0,6.0,False,True
+5760,67.5,12.98,24.0,8.0,False,True

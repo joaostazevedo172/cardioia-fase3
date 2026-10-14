@@ -1,0 +1,27 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+DHT sensor library
+
+PubSubClient
+Adafruit MPU6050
+
+# ---------------------------------------------------------------------
+# NOTA DE USO
+#
+# Este arquivo e o que o Wokwi gera depois que as bibliotecas sao
+# adicionadas pelo painel Library Manager. Colar este conteudo numa aba
+# do editor NAO registra as bibliotecas: o painel mantem estado proprio,
+# e a compilacao falha com
+#
+#     PubSubClient.h: No such file or directory
+#
+# Para montar o projeto do zero, use o botao + da aba Library Manager e
+# adicione, uma a uma: PubSubClient, DHT sensor library, Adafruit MPU6050.
+# As dependencias (Adafruit Unified Sensor e Adafruit BusIO) sao
+# resolvidas automaticamente pelo Wokwi - por isso nao aparecem aqui.
+#
+# Nao usamos ArduinoJson: o payload e montado com snprintf, que gasta
+# menos memoria e remove uma dependencia do projeto.
+# ---------------------------------------------------------------------

@@ -1,0 +1,42 @@
+From: wearable@cardioia.local
+To: central.cardio@cardioia.local, plantao@cardioia.local
+Subject: [ALERTA] Taquicardia sustentada - CARD-0056
+Date: Sun, 11 Oct 2026 17:07:14 -0300
+Message-ID: <179174923436.11.13541504667187848549@cardioia.local>
+X-CardioIA-Paciente: CARD-0056
+X-CardioIA-Motivo: TAQUICARDIA
+X-CardioIA-Gravidade: 4
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+ALERTA CLINICO AUTOMATICO - CardioIA
+
+Paciente .......... CARD-0056
+Dispositivo ....... PURKINJE-WEAR-01
+Momento ........... 08:10 de monitoramento
+Motivo ............ TAQUICARDIA
+Criterio .......... 135 bpm por 3 amostras
+
+Frequencia cardiaca sustentada acima do limiar de taquicardia.
+
+SINAIS VITAIS NO INSTANTE DO ALERTA
+
+  Frequencia cardiaca .... 135 bpm
+  Temperatura ............ 36.7 C
+  Umidade relativa ....... 50 %
+  Movimento .............. 143 mg
+
+LIMIARES EM VIGOR
+
+  Taquicardia ............ acima de 120 bpm
+  Bradicardia ............ abaixo de 50 bpm
+  Febre .................. acima de 38.0 C
+  Impacto ................ acima de 2500 mg
+
+Todos os alertas exigem 3 amostras consecutivas na
+condicao, exceto impacto, que dispara de imediato.
+
+--
+Mensagem gerada automaticamente pelo servico CardioIA Telemetria
+versao 1.0.0. Nao responda a este endereco.

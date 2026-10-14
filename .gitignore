@@ -1,0 +1,26 @@
+# Node-RED
+node_modules/
+.node-red/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Arduino / PlatformIO
+.pio/
+build/
+*.bin
+*.elf
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp

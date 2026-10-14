@@ -1,0 +1,496 @@
+[
+    {
+        "id": "aba_cardioia",
+        "type": "tab",
+        "label": "CardioIA - Fase 3",
+        "disabled": false,
+        "info": "Monitoramento continuo do paciente CARD-0056.\nGrupo Purkinje - FIAP 2TIAOR-2026."
+    },
+    {
+        "id": "broker_hivemq",
+        "type": "mqtt-broker",
+        "name": "HiveMQ publico",
+        "broker": "broker.hivemq.com",
+        "port": "1883",
+        "clientid": "cardioia-nodered-purkinje",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "ui_tab_monitor",
+        "type": "ui_tab",
+        "name": "Monitor CardioIA",
+        "icon": "favorite",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "grp_vitais",
+        "type": "ui_group",
+        "name": "Sinais vitais em tempo real",
+        "tab": "ui_tab_monitor",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "grp_alerta",
+        "type": "ui_group",
+        "name": "Alertas e estado do enlace",
+        "tab": "ui_tab_monitor",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "grp_historico",
+        "type": "ui_group",
+        "name": "Historico de eventos clinicos",
+        "tab": "ui_tab_monitor",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "ef2fb7b269d543df",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "mqtt_telemetria",
+        "type": "mqtt in",
+        "z": "aba_cardioia",
+        "name": "telemetria (ao vivo)",
+        "topic": "cardioia/purkinje/CARD-0056/telemetria",
+        "qos": "1",
+        "datatype": "json",
+        "broker": "broker_hivemq",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 100,
+        "wires": [
+            [
+                "fn_normalizar"
+            ]
+        ]
+    },
+    {
+        "id": "mqtt_historico",
+        "type": "mqtt in",
+        "z": "aba_cardioia",
+        "name": "historico (backlog)",
+        "topic": "cardioia/purkinje/CARD-0056/historico",
+        "qos": "1",
+        "datatype": "json",
+        "broker": "broker_hivemq",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 160,
+        "wires": [
+            [
+                "fn_normalizar"
+            ]
+        ]
+    },
+    {
+        "id": "mqtt_alerta",
+        "type": "mqtt in",
+        "z": "aba_cardioia",
+        "name": "alerta (eventos)",
+        "topic": "cardioia/purkinje/CARD-0056/alerta",
+        "qos": "1",
+        "datatype": "json",
+        "broker": "broker_hivemq",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 340,
+        "wires": [
+            [
+                "fn_registrar_evento"
+            ]
+        ]
+    },
+    {
+        "id": "mqtt_status",
+        "type": "mqtt in",
+        "z": "aba_cardioia",
+        "name": "status (LWT)",
+        "topic": "cardioia/purkinje/CARD-0056/status",
+        "qos": "1",
+        "datatype": "json",
+        "broker": "broker_hivemq",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 420,
+        "wires": [
+            [
+                "fn_status"
+            ]
+        ]
+    },
+    {
+        "id": "fn_normalizar",
+        "type": "function",
+        "z": "aba_cardioia",
+        "name": "normalizar e rotear",
+        "func": "// Recebe o JSON publicado pelo ESP32 e distribui pelas saidas do\n// dashboard. Amostras do backlog (origem 'historico') nao atualizam os\n// medidores: elas sao passado, e um gauge mostrando valor antigo como se\n// fosse atual induziria o profissional ao erro. Elas alimentam apenas o\n// grafico, que e uma serie temporal e sabe onde posicionar o ponto.\n\nconst d = msg.payload;\nif (!d || typeof d !== 'object') { return null; }\n\nconst aovivo = (d.origem !== 'historico');\n\n// 1 - grafico de frequencia cardiaca\nconst grafico = { payload: d.bpm, topic: aovivo ? 'FC ao vivo' : 'FC sincronizada' };\n\n// 2 e 3 - medidores (so ao vivo)\nconst temperatura = aovivo ? { payload: d.temp } : null;\nconst umidade     = aovivo ? { payload: d.umid } : null;\n\n// 4 - indicador de alerta\nconst indicador = {\n    payload: {\n        alerta: d.alerta === true,\n        motivo: d.motivo || 'NORMAL',\n        bpm: d.bpm,\n        temp: d.temp,\n        mov: d.mov\n    }\n};\n\n// 5 - fila de sincronizacao pendente\nconst backlog = { payload: d.backlog || 0, perdidas: d.perdidas || 0 };\n\nreturn [ grafico, temperatura, umidade, indicador, backlog ];",
+        "outputs": 5,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 160,
+        "wires": [
+            [
+                "ui_grafico_fc"
+            ],
+            [
+                "ui_gauge_temp"
+            ],
+            [
+                "ui_gauge_umid"
+            ],
+            [
+                "ui_painel_alerta"
+            ],
+            [
+                "ui_backlog"
+            ]
+        ]
+    },
+    {
+        "id": "ui_grafico_fc",
+        "type": "ui_chart",
+        "z": "aba_cardioia",
+        "name": "Frequencia cardiaca",
+        "group": "grp_vitais",
+        "order": 1,
+        "width": "12",
+        "height": "5",
+        "label": "Frequencia cardiaca (bpm)",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "aguardando o dispositivo...",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "300",
+        "removeOlder": "10",
+        "removeOlderPoints": "300",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#d62728",
+            "#1f77b4",
+            "#ff7f0e",
+            "#2ca02c"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 700,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ui_gauge_temp",
+        "type": "ui_gauge",
+        "z": "aba_cardioia",
+        "name": "Temperatura corporal",
+        "group": "grp_vitais",
+        "order": 2,
+        "width": "6",
+        "height": "4",
+        "gtype": "gage",
+        "title": "Temperatura (C)",
+        "label": "C",
+        "format": "{{value | number:1}}",
+        "min": "30",
+        "max": "42",
+        "colors": [
+            "#00b0ff",
+            "#00c853",
+            "#d50000"
+        ],
+        "seg1": "35",
+        "seg2": "38",
+        "className": "",
+        "x": 700,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "ui_gauge_umid",
+        "type": "ui_gauge",
+        "z": "aba_cardioia",
+        "name": "Umidade ambiente",
+        "group": "grp_vitais",
+        "order": 3,
+        "width": "6",
+        "height": "4",
+        "gtype": "gage",
+        "title": "Umidade relativa (%)",
+        "label": "%",
+        "format": "{{value}}",
+        "min": "0",
+        "max": "100",
+        "colors": [
+            "#ffc107",
+            "#00c853",
+            "#0288d1"
+        ],
+        "seg1": "30",
+        "seg2": "70",
+        "className": "",
+        "x": 700,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "ui_painel_alerta",
+        "type": "ui_template",
+        "z": "aba_cardioia",
+        "group": "grp_alerta",
+        "name": "LED virtual de alerta",
+        "order": 1,
+        "width": "6",
+        "height": "4",
+        "format": "<div style=\"display:flex;align-items:center;gap:16px;padding:8px\">\n  <div ng-style=\"{'background': msg.payload.alerta ? '#d50000' : '#00c853',\n                  'box-shadow': msg.payload.alerta ? '0 0 22px 6px rgba(213,0,0,.8)' : '0 0 10px 2px rgba(0,200,83,.5)'}\"\n       style=\"width:58px;height:58px;border-radius:50%;flex:none;transition:all .25s\"></div>\n  <div>\n    <div style=\"font-size:20px;font-weight:700\">{{msg.payload.motivo || 'AGUARDANDO'}}</div>\n    <div style=\"opacity:.75;font-size:13px\">\n      FC {{msg.payload.bpm}} bpm &nbsp;|&nbsp; {{msg.payload.temp}} C &nbsp;|&nbsp; {{msg.payload.mov}} mg\n    </div>\n  </div>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 710,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ui_backlog",
+        "type": "ui_text",
+        "z": "aba_cardioia",
+        "group": "grp_alerta",
+        "order": 2,
+        "width": "6",
+        "height": "1",
+        "name": "Fila de sincronizacao",
+        "label": "Amostras aguardando sincronizacao",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 710,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "fn_status",
+        "type": "function",
+        "z": "aba_cardioia",
+        "name": "estado do dispositivo",
+        "func": "// O topico de status carrega a mensagem retida do dispositivo e tambem\n// o Last Will publicado pelo broker caso o ESP32 pare sem se despedir.\n// Distinguir 'sem alteracoes' de 'parei de receber' e essencial num\n// monitor cardiaco: a segunda situacao e uma emergencia silenciosa.\n\nconst e = (msg.payload && msg.payload.estado) || 'desconhecido';\nmsg.payload = (e === 'online')\n    ? 'ONLINE - recebendo telemetria'\n    : 'OFFLINE - dispositivo sem comunicacao';\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 420,
+        "wires": [
+            [
+                "ui_status"
+            ]
+        ]
+    },
+    {
+        "id": "ui_status",
+        "type": "ui_text",
+        "z": "aba_cardioia",
+        "group": "grp_alerta",
+        "order": 3,
+        "width": "6",
+        "height": "1",
+        "name": "Estado do enlace",
+        "label": "Dispositivo",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 710,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "fn_registrar_evento",
+        "type": "function",
+        "z": "aba_cardioia",
+        "name": "acumular eventos",
+        "func": "// Mantem as ultimas 20 ocorrencias no contexto do flow. O historico\n// vive no Node-RED, nao no dispositivo: o ESP32 tem memoria para\n// resiliencia, nao para consulta clinica.\n\nconst d = msg.payload;\nconst lista = flow.get('eventos') || [];\n\nlista.unshift({\n    hora: new Date().toLocaleTimeString('pt-BR'),\n    motivo: d.motivo,\n    bpm: d.bpm,\n    temp: d.temp,\n    origem: d.origem === 'historico' ? 'sincronizado' : 'ao vivo'\n});\n\nif (lista.length > 20) { lista.length = 20; }\nflow.set('eventos', lista);\n\nmsg.payload = lista;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 340,
+        "wires": [
+            [
+                "ui_tabela_eventos"
+            ]
+        ]
+    },
+    {
+        "id": "ui_tabela_eventos",
+        "type": "ui_template",
+        "z": "aba_cardioia",
+        "group": "grp_historico",
+        "name": "Tabela de eventos",
+        "order": 1,
+        "width": "6",
+        "height": "6",
+        "format": "<table style=\"width:100%;border-collapse:collapse;font-size:13px\">\n  <thead>\n    <tr style=\"text-align:left;border-bottom:1px solid rgba(128,128,128,.4)\">\n      <th style=\"padding:6px 4px\">Hora</th>\n      <th style=\"padding:6px 4px\">Motivo</th>\n      <th style=\"padding:6px 4px\">FC</th>\n      <th style=\"padding:6px 4px\">Temp</th>\n      <th style=\"padding:6px 4px\">Origem</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr ng-repeat=\"e in msg.payload\" style=\"border-bottom:1px solid rgba(128,128,128,.15)\">\n      <td style=\"padding:5px 4px\">{{e.hora}}</td>\n      <td style=\"padding:5px 4px;color:#d50000;font-weight:600\">{{e.motivo}}</td>\n      <td style=\"padding:5px 4px\">{{e.bpm}}</td>\n      <td style=\"padding:5px 4px\">{{e.temp}}</td>\n      <td style=\"padding:5px 4px;opacity:.7\">{{e.origem}}</td>\n    </tr>\n    <tr ng-if=\"!msg.payload || msg.payload.length === 0\">\n      <td colspan=\"5\" style=\"padding:14px 4px;opacity:.6\">Nenhum evento clinico registrado.</td>\n    </tr>\n  </tbody>\n</table>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 700,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "10e23da0a8f32af7",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6"
+        }
+    }
+]

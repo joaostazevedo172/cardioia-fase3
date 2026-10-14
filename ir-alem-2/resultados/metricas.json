@@ -1,0 +1,63 @@
+{
+ "semente": 20260806,
+ "janelas_total": 1200,
+ "janelas_treino": 840,
+ "janelas_teste": 360,
+ "proporcao_classe_1": 0.3883,
+ "regressao_serie_crua": {
+  "modelo": "Regressao logistica (serie crua)",
+  "acuracia": 0.9694,
+  "precisao": 0.964,
+  "revocacao": 0.9571,
+  "f1": 0.9606,
+  "verdadeiros_negativos": 215,
+  "falsos_positivos": 5,
+  "falsos_negativos": 6,
+  "verdadeiros_positivos": 134,
+  "auc_roc": 0.9955,
+  "n_atributos": 40
+ },
+ "regressao_logistica": {
+  "modelo": "Regressao logistica (com contagem)",
+  "acuracia": 0.9778,
+  "precisao": 0.9783,
+  "revocacao": 0.9643,
+  "f1": 0.9712,
+  "verdadeiros_negativos": 217,
+  "falsos_positivos": 3,
+  "falsos_negativos": 5,
+  "verdadeiros_positivos": 135,
+  "auc_roc": 0.9986,
+  "n_atributos": 42
+ },
+ "neuronio_lif": {
+  "modelo": "Neuronio LIF",
+  "acuracia": 0.9556,
+  "precisao": 0.9627,
+  "revocacao": 0.9214,
+  "f1": 0.9416,
+  "verdadeiros_negativos": 215,
+  "falsos_positivos": 5,
+  "falsos_negativos": 11,
+  "verdadeiros_positivos": 129,
+  "auc_roc": 0.9584
+ },
+ "falsos_positivos_dificeis_regressao_crua": 5,
+ "lif_parametros": {
+  "tau": 9.0,
+  "limiar": 1.8,
+  "ganho": 0.6,
+  "minimo_disparos": 1
+ },
+ "lif_f1_treino": 0.95,
+ "lif_combinacoes_avaliadas": 180,
+ "latencia_lif_leituras": 19.87,
+ "latencia_lif_segundos": 99.3,
+ "latencia_regressao_leituras": 36,
+ "latencia_regressao_segundos": 180,
+ "operacoes_regressao": 84,
+ "operacoes_lif": 108,
+ "janelas_dificeis": 120,
+ "falsos_positivos_dificeis_regressao": 3,
+ "falsos_positivos_dificeis_lif": 5
+}

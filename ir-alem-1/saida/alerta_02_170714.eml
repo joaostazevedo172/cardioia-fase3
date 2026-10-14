@@ -1,0 +1,42 @@
+From: wearable@cardioia.local
+To: central.cardio@cardioia.local, plantao@cardioia.local
+Subject: [ALERTA] Febre - CARD-0056
+Date: Sun, 11 Oct 2026 17:07:14 -0300
+Message-ID: <179174923437.11.15675039573937703677@cardioia.local>
+X-CardioIA-Paciente: CARD-0056
+X-CardioIA-Motivo: FEBRE
+X-CardioIA-Gravidade: 2
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+ALERTA CLINICO AUTOMATICO - CardioIA
+
+Paciente .......... CARD-0056
+Dispositivo ....... PURKINJE-WEAR-01
+Momento ........... 18:50 de monitoramento
+Motivo ............ FEBRE
+Criterio .......... 38.5 C por 3 amostras
+
+Temperatura corporal sustentada acima de 38,0 C.
+
+SINAIS VITAIS NO INSTANTE DO ALERTA
+
+  Frequencia cardiaca .... 74 bpm
+  Temperatura ............ 38.5 C
+  Umidade relativa ....... 56 %
+  Movimento .............. 388 mg
+
+LIMIARES EM VIGOR
+
+  Taquicardia ............ acima de 120 bpm
+  Bradicardia ............ abaixo de 50 bpm
+  Febre .................. acima de 38.0 C
+  Impacto ................ acima de 2500 mg
+
+Todos os alertas exigem 3 amostras consecutivas na
+condicao, exceto impacto, que dispara de imediato.
+
+--
+Mensagem gerada automaticamente pelo servico CardioIA Telemetria
+versao 1.0.0. Nao responda a este endereco.

@@ -1,0 +1,271 @@
+{
+ "paciente": "CARD-0056",
+ "dispositivo": "PURKINJE-WEAR-01",
+ "amostras_consumidas": 540,
+ "requisicoes_http": [
+  {
+   "metodo": "GET",
+   "caminho": "/saude",
+   "codigo": 200
+  },
+  {
+   "metodo": "GET",
+   "caminho": "/api/v1/pacientes/CARD-0056/telemetria?desde=0&limite=10000",
+   "codigo": 200
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/telemetria",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "POST",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 201
+  },
+  {
+   "metodo": "GET",
+   "caminho": "/api/v1/pacientes/CARD-0056/alertas",
+   "codigo": 200
+  }
+ ],
+ "eventos": [
+  {
+   "t": 490,
+   "motivo": "TAQUICARDIA",
+   "detalhe": "135 bpm por 3 amostras",
+   "mensagem": "Frequencia cardiaca sustentada acima do limiar de taquicardia.",
+   "clinico": true,
+   "gravidade": 4
+  },
+  {
+   "t": 640,
+   "motivo": "TAQUICARDIA",
+   "detalhe": "136 bpm por 3 amostras",
+   "mensagem": "Frequencia cardiaca sustentada acima do limiar de taquicardia.",
+   "clinico": true,
+   "gravidade": 4
+  },
+  {
+   "t": 715,
+   "motivo": "TAQUICARDIA",
+   "detalhe": "134 bpm por 3 amostras",
+   "mensagem": "Frequencia cardiaca sustentada acima do limiar de taquicardia.",
+   "clinico": true,
+   "gravidade": 4
+  },
+  {
+   "t": 750,
+   "motivo": "TAQUICARDIA",
+   "detalhe": "138 bpm por 3 amostras",
+   "mensagem": "Frequencia cardiaca sustentada acima do limiar de taquicardia.",
+   "clinico": true,
+   "gravidade": 4
+  },
+  {
+   "t": 1130,
+   "motivo": "FEBRE",
+   "detalhe": "38.5 C por 3 amostras",
+   "mensagem": "Temperatura corporal sustentada acima de 38,0 C.",
+   "clinico": true,
+   "gravidade": 2
+  },
+  {
+   "t": 1500,
+   "motivo": "QUEDA",
+   "detalhe": "3271 mg de aceleracao",
+   "mensagem": "Impacto compativel com queda detectado pelo acelerometro.",
+   "clinico": true,
+   "gravidade": 5
+  },
+  {
+   "t": 2300,
+   "motivo": "IMOBILIDADE",
+   "detalhe": "158 amostras abaixo de 60 mg",
+   "mensagem": "Ausencia prolongada de movimento com ritmo cardiaco alterado.",
+   "clinico": true,
+   "gravidade": 3
+  },
+  {
+   "t": 2310,
+   "motivo": "BRADICARDIA",
+   "detalhe": "43 bpm por 3 amostras",
+   "mensagem": "Frequencia cardiaca sustentada abaixo do limiar de bradicardia.",
+   "clinico": true,
+   "gravidade": 4
+  },
+  {
+   "t": 2585,
+   "motivo": "IMOBILIDADE",
+   "detalhe": "215 amostras abaixo de 60 mg",
+   "mensagem": "Ausencia prolongada de movimento com ritmo cardiaco alterado.",
+   "clinico": true,
+   "gravidade": 3
+  },
+  {
+   "t": 2595,
+   "motivo": "BRADICARDIA",
+   "detalhe": "40 bpm por 3 amostras",
+   "mensagem": "Frequencia cardiaca sustentada abaixo do limiar de bradicardia.",
+   "clinico": true,
+   "gravidade": 4
+  }
+ ],
+ "emails_enviados": [
+  {
+   "t": 490,
+   "motivo": "TAQUICARDIA",
+   "assunto": "[ALERTA] Taquicardia sustentada - CARD-0056"
+  },
+  {
+   "t": 1130,
+   "motivo": "FEBRE",
+   "assunto": "[ALERTA] Febre - CARD-0056"
+  },
+  {
+   "t": 1500,
+   "motivo": "QUEDA",
+   "assunto": "[EMERGENCIA] Queda detectada - CARD-0056"
+  },
+  {
+   "t": 2300,
+   "motivo": "IMOBILIDADE",
+   "assunto": "[ALERTA] Imobilidade com ritmo alterado - CARD-0056"
+  },
+  {
+   "t": 2310,
+   "motivo": "BRADICARDIA",
+   "assunto": "[ALERTA] Bradicardia sustentada - CARD-0056"
+  }
+ ],
+ "notificacoes_suprimidas": [
+  {
+   "t": 640,
+   "motivo": "TAQUICARDIA",
+   "razao": "suprimido, mesmo motivo ha 150 s (janela 300 s, faltam 150 s)"
+  },
+  {
+   "t": 715,
+   "motivo": "TAQUICARDIA",
+   "razao": "suprimido, mesmo motivo ha 225 s (janela 300 s, faltam 75 s)"
+  },
+  {
+   "t": 750,
+   "motivo": "TAQUICARDIA",
+   "razao": "suprimido, mesmo motivo ha 260 s (janela 300 s, faltam 40 s)"
+  },
+  {
+   "t": 2585,
+   "motivo": "IMOBILIDADE",
+   "razao": "suprimido, mesmo motivo ha 285 s (janela 300 s, faltam 15 s)"
+  },
+  {
+   "t": 2595,
+   "motivo": "BRADICARDIA",
+   "razao": "suprimido, mesmo motivo ha 285 s (janela 300 s, faltam 15 s)"
+  }
+ ],
+ "mensagens_smtp": [
+  {
+   "indice": 1,
+   "arquivo": "alerta_01_170714.eml",
+   "de": "<wearable@cardioia.local>",
+   "para": [
+    "<central.cardio@cardioia.local>",
+    "<plantao@cardioia.local>"
+   ],
+   "assunto": "[ALERTA] Taquicardia sustentada - CARD-0056",
+   "bytes": 1337
+  },
+  {
+   "indice": 2,
+   "arquivo": "alerta_02_170714.eml",
+   "de": "<wearable@cardioia.local>",
+   "para": [
+    "<central.cardio@cardioia.local>",
+    "<plantao@cardioia.local>"
+   ],
+   "assunto": "[ALERTA] Febre - CARD-0056",
+   "bytes": 1292
+  },
+  {
+   "indice": 3,
+   "arquivo": "alerta_03_170714.eml",
+   "de": "<wearable@cardioia.local>",
+   "para": [
+    "<central.cardio@cardioia.local>",
+    "<plantao@cardioia.local>"
+   ],
+   "assunto": "[EMERGENCIA] Queda detectada - CARD-0056",
+   "bytes": 1316
+  },
+  {
+   "indice": 4,
+   "arquivo": "alerta_04_170714.eml",
+   "de": "<wearable@cardioia.local>",
+   "para": [
+    "<central.cardio@cardioia.local>",
+    "<plantao@cardioia.local>"
+   ],
+   "assunto": "[ALERTA] Imobilidade com ritmo alterado - CARD-0056",
+   "bytes": 1347
+  },
+  {
+   "indice": 5,
+   "arquivo": "alerta_05_170714.eml",
+   "de": "<wearable@cardioia.local>",
+   "para": [
+    "<central.cardio@cardioia.local>",
+    "<plantao@cardioia.local>"
+   ],
+   "assunto": "[ALERTA] Bradicardia sustentada - CARD-0056",
+   "bytes": 1333
+  }
+ ],
+ "duracao_s": 0.99
+}
